@@ -1,7 +1,7 @@
 ---
 title: BTLO - Midnite
-categories: [OCI, Mirror, Spegel]
-tags: [OCI, Mirror, Spegel]
-author: tremo
+categories: [Write Up, Incident Response, ]
+tags: [Write Up, Incident Response, ]
+author: Knodel
 ---
 Hello World! 
